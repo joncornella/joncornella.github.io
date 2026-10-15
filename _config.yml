@@ -23,7 +23,7 @@ avatar_image: /img/Image.JPG
 #-------------------------------
 # Contact links
 linkedln: "https://linkedln.com/in/joncornella" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+github: "https://github.com/joncornella"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
